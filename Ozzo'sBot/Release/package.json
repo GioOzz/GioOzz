@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "evil-dns": "^0.2.0",
+    "mssql": "^6.3.1",
+    "node-telegram-bot-api": "^0.53.0"
+  }
+}
