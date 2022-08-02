@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @GioOzz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+About me
 
-<!---
-GioOzz/GioOzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔭 I’m currently working in a company
+
+🌱 I’m know that everything can help me to improve, every day
+
+💬 Ask me about anything, if I don't know the answer I'll tell you immediately and learn something new!
+
+📫 How to reach me: gio.ozzola@gmail.com or this LinkedIn profile
+
+⚡ Fun fact: i have a lot of passions; The most commons are IT, football and finance.
