@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-19T17:12:02.852Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Q6M4nQkL8BqxCfnUvsWy" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-19T17:12:26.313Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="AqYrxK0oeOctsEbn0T6m" version="22.1.21" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="DB Scheme">
-    <mxGraphModel dx="1932" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="3081" dy="1008" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -204,8 +204,8 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6tlk0qb7G0rKe4viPSuI-35" value="https://github.com/GioOzz/FootballBets/blob/ef/API/src/FootballBets.Models/Entities/Bet.cs" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="200" width="500" height="30" as="geometry" />
+        <mxCell id="6tlk0qb7G0rKe4viPSuI-35" value="https://github.com/GioOzz/FootballBets/blob/ef/API/src/FootballBets.Models/Entities" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="215" width="470" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6tlk0qb7G0rKe4viPSuI-67" value="Match" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
           <mxGeometry x="536" y="306" width="205" height="224" as="geometry" />
